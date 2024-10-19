@@ -1,3 +1,1 @@
-## Hi there 👋
-
-Visit [justalexbennett.com](justalexbennett.com)
+# Visit [justalexbennett.com](justalexbennett.com)
